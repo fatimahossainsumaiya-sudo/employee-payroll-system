@@ -32,11 +32,12 @@ The system follows a progressive tax bracket:
 
 ---
 
-## 💻 Installation & Usage
+### 💻 Installation & Usage
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/fatimahossainsumaiya-sudo/employee-payroll-system.git](https://github.com/fatimahossainsumaiya-sudo/employee-payroll-system.git)
+
 Install dependencies:
 
 Bash
@@ -44,7 +45,7 @@ pip install matplotlib
 Run the application:
 
 Bash
-python payroll_system.py
+python employee-payroll-system.py
 
 📊 Output Preview
 <img width="633" height="543" alt="image" src="https://github.com/user-attachments/assets/d71f2761-d057-4c43-b60f-7828b5016dd7" />
